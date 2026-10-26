@@ -1,0 +1,7 @@
+PawConnect-Project/target/
+PawConnect-Project/node_modules/
+PawConnect-Project/.settings/
+PawConnect-Project/.classpath
+PawConnect-Project/.project
+PawConnect-Project/apache-maven-*/
+PawConnect-Project/maven.zip
